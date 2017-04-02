@@ -1,0 +1,11 @@
+name: word_prediction_app
+title: Word Prediction App
+account: cwillig
+server: shinyapps.io
+appId: 168673
+bundleId: 773766
+url: https://cwillig.shinyapps.io/word_prediction_app/
+when: 1491132831.77703
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.R|data_prep.R
